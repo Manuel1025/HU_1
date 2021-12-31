@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Ver diferentes categorias de productos" tests="3" skipped="0" failures="1" errors="0" timestamp="2021-12-31T15:28:19" hostname="22LAP5CD1346NJJ" time="42.884">
+  <properties/>
+  <testcase name="el usuario deberia  poder ver las diferentes categorias de productos" classname="Ver diferentes categorias de productos" time="17.457">
+    <failure message="java.lang.AssertionError: deben haber 5 coincidencias&#10;Expected: is &lt;4&gt;&#10;     but: was &lt;5&gt;" type="java.lang.AssertionError">java.lang.AssertionError: deben haber 5 coincidencias
+Expected: is &lt;4&gt;
+     but: was &lt;5&gt;
+	at org.hamcrest.MatcherAssert.assertThat(MatcherAssert.java:20)
+	at com.indra.actions.AdvantageonlineshoppingActions.mostrarTodasLasCategorias(AdvantageonlineshoppingActions.java:40)
+	at com.indra.steps_definitions.AdvantageonlineshoppingSteps.deberiaPoderVerLasDiferentesCategoria(AdvantageonlineshoppingSteps.java:32)
+	at ✽.deberia poder ver las diferentes categoria(src/test/resources/advantageonlineshopping/advantageonlineshopping.feature:11)
+</failure>
+  </testcase>
+  <testcase name="el usuario deberia ver diferentes espacios publicitarios" classname="Ver diferentes categorias de productos" time="12.038"/>
+  <testcase name="el usuario deberia ver diferentes opciones en el menu" classname="Ver diferentes categorias de productos" time="13.373"/>
+  <system-out><![CDATA[10:28:20.099 [Test worker] INFO net.serenitybdd.core.webdriver.driverproviders.ProvideNewDriver - Instantiating driver
+10:28:20.099 [Test worker] INFO net.serenitybdd.core.webdriver.driverproviders.ProvideNewDriver - Driver capabilities: Capabilities {acceptInsecureCerts: false, acceptSslCerts: true, browserName: chrome, goog:chromeOptions: {args: [], extensions: []}, incognito: true, loggingPrefs: org.openqa.selenium.logging..., platform: ANY, version: }
+10:28:26.263 [Test worker] DEBUG net.serenitybdd.core.photography.Darkroom - Opening darkroom
+10:28:26.263 [Darkroom Processing Line] DEBUG net.serenitybdd.core.photography.DarkroomProcessingLine - Darkroom processing line starting up
+10:28:26.734 [Test worker] DEBUG net.serenitybdd.core.photography.Darkroom - Send negative for processing for C:\Users\SoporteTI\Desktop\ENTREGAS\HU_1\target\site\serenity\0506a3a1dbbee2235fe47286b51a09f8232743f85c8d1caad92c55e9d4d990ac.png
+10:28:27.053 [Test worker] DEBUG net.serenitybdd.core.photography.Darkroom - Send negative for processing for C:\Users\SoporteTI\Desktop\ENTREGAS\HU_1\target\site\serenity\97f32d04e4113b6e0745589e4cb744dbf103c7091dc17e8afc47bd0ef062a6ba.png
+10:28:33.203 [Test worker] DEBUG net.serenitybdd.core.photography.Darkroom - Send negative for processing for C:\Users\SoporteTI\Desktop\ENTREGAS\HU_1\target\site\serenity\2a5fa9e366f14f40bf47a6cda3e2f185ee54c60d11895dfaa01a531883392a53.png
+10:28:33.204 [Darkroom Processing Line] DEBUG net.serenitybdd.core.photography.DarkroomProcessingLine - Processing screenshot image in /var/screenshots/screenshot-3647418690913699392
+10:28:33.205 [Darkroom Processing Line] DEBUG net.serenitybdd.core.photography.DarkroomProcessingLine - Saving screenshot to C:\Users\SoporteTI\Desktop\ENTREGAS\HU_1\target\site\serenity\2a5fa9e366f14f40bf47a6cda3e2f185ee54c60d11895dfaa01a531883392a53.png
+10:28:36.476 [Test worker] ERROR net.thucydides.core.steps.ConsoleLoggingListener - ?[91m
+           __  _____ _____ ____ _____   _____ _    ___ _     _____ ____  
+  _       / / |_   _| ____/ ___|_   _| |  ___/ \  |_ _| |   | ____|  _ \ 
+ (_)_____| |    | | |  _| \___ \ | |   | |_ / _ \  | || |   |  _| | | | |
+  _|_____| |    | | | |___ ___) || |   |  _/ ___ \ | || |___| |___| |_| |
+ (_)     | |    |_| |_____|____/ |_|   |_|/_/   \_\___|_____|_____|____/ 
+          \_\                                                            
+
+TEST FAILED: el usuario deberia  poder ver las diferentes categorias de productos
+--------------------------------------------------------------------------?[0m
+10:28:36.480 [Test worker] DEBUG net.thucydides.core.steps.ConsoleLoggingListener - RELATED ISSUES: 
+10:28:36.563 [Test worker] ERROR net.thucydides.core.steps.ConsoleLoggingListener - ?[91mTEST FAILED AT STEP Then deberia poder ver las diferentes categoria?[0m
+10:28:36.564 [Test worker] ERROR net.thucydides.core.steps.ConsoleLoggingListener - deben haber 5 coincidenciasExpected: is <4> but: was <5>
+10:28:36.891 [Test worker] INFO net.serenitybdd.core.webdriver.driverproviders.ProvideNewDriver - Instantiating driver
+10:28:36.891 [Test worker] INFO net.serenitybdd.core.webdriver.driverproviders.ProvideNewDriver - Driver capabilities: Capabilities {acceptInsecureCerts: false, acceptSslCerts: true, browserName: chrome, goog:chromeOptions: {args: [], extensions: []}, incognito: true, loggingPrefs: org.openqa.selenium.logging..., platform: ANY, version: }
+10:28:41.608 [Test worker] DEBUG net.serenitybdd.core.photography.Darkroom - Send negative for processing for C:\Users\SoporteTI\Desktop\ENTREGAS\HU_1\target\site\serenity\0506a3a1dbbee2235fe47286b51a09f8232743f85c8d1caad92c55e9d4d990ac.png
+10:28:44.700 [Test worker] DEBUG net.serenitybdd.core.photography.Darkroom - Send negative for processing for C:\Users\SoporteTI\Desktop\ENTREGAS\HU_1\target\site\serenity\2be1fad416fbe18901deee3b38e6df233f4bbb77de03be3dbb84f770afb878b7.png
+10:28:44.702 [Darkroom Processing Line] DEBUG net.serenitybdd.core.photography.DarkroomProcessingLine - Processing screenshot image in /var/screenshots/screenshot-3101444397229864754
+10:28:44.703 [Darkroom Processing Line] DEBUG net.serenitybdd.core.photography.DarkroomProcessingLine - Saving screenshot to C:\Users\SoporteTI\Desktop\ENTREGAS\HU_1\target\site\serenity\2be1fad416fbe18901deee3b38e6df233f4bbb77de03be3dbb84f770afb878b7.png
+10:28:45.375 [Test worker] DEBUG net.serenitybdd.core.photography.Darkroom - Send negative for processing for C:\Users\SoporteTI\Desktop\ENTREGAS\HU_1\target\site\serenity\92387b9f037c90e4fd6feec69971fe42da5c86d167073d4cfbfb13665b79fae7.png
+10:28:45.377 [Darkroom Processing Line] DEBUG net.serenitybdd.core.photography.DarkroomProcessingLine - Processing screenshot image in /var/screenshots/screenshot-1039334739724166624
+10:28:45.378 [Darkroom Processing Line] DEBUG net.serenitybdd.core.photography.DarkroomProcessingLine - Saving screenshot to C:\Users\SoporteTI\Desktop\ENTREGAS\HU_1\target\site\serenity\92387b9f037c90e4fd6feec69971fe42da5c86d167073d4cfbfb13665b79fae7.png
+10:28:48.611 [Test worker] INFO net.thucydides.core.steps.ConsoleLoggingListener - ?[92m
+        __    _____ _____ ____ _____   ____   _    ____  ____  _____ ____  
+  _     \ \  |_   _| ____/ ___|_   _| |  _ \ / \  / ___|/ ___|| ____|  _ \ 
+ (_)_____| |   | | |  _| \___ \ | |   | |_) / _ \ \___ \\___ \|  _| | | | |
+  _|_____| |   | | | |___ ___) || |   |  __/ ___ \ ___) |___) | |___| |_| |
+ (_)     | |   |_| |_____|____/ |_|   |_| /_/   \_\____/|____/|_____|____/ 
+        /_/                                                                
+
+TEST PASSED: el usuario deberia ver diferentes espacios publicitarios
+----------------------------------------------------------------------------?[0m
+10:28:48.807 [Test worker] INFO net.serenitybdd.core.webdriver.driverproviders.ProvideNewDriver - Instantiating driver
+10:28:48.807 [Test worker] INFO net.serenitybdd.core.webdriver.driverproviders.ProvideNewDriver - Driver capabilities: Capabilities {acceptInsecureCerts: false, acceptSslCerts: true, browserName: chrome, goog:chromeOptions: {args: [], extensions: []}, incognito: true, loggingPrefs: org.openqa.selenium.logging..., platform: ANY, version: }
+10:28:53.533 [Test worker] DEBUG net.serenitybdd.core.photography.Darkroom - Send negative for processing for C:\Users\SoporteTI\Desktop\ENTREGAS\HU_1\target\site\serenity\0506a3a1dbbee2235fe47286b51a09f8232743f85c8d1caad92c55e9d4d990ac.png
+10:28:56.569 [Test worker] DEBUG net.serenitybdd.core.photography.Darkroom - Send negative for processing for C:\Users\SoporteTI\Desktop\ENTREGAS\HU_1\target\site\serenity\fbafa1fc5c622d3344e4919344aeaca375550feacc2b3671cd251dea2178df85.png
+10:28:56.570 [Darkroom Processing Line] DEBUG net.serenitybdd.core.photography.DarkroomProcessingLine - Processing screenshot image in /var/screenshots/screenshot-8747489391929487034
+10:28:56.571 [Darkroom Processing Line] DEBUG net.serenitybdd.core.photography.DarkroomProcessingLine - Saving screenshot to C:\Users\SoporteTI\Desktop\ENTREGAS\HU_1\target\site\serenity\fbafa1fc5c622d3344e4919344aeaca375550feacc2b3671cd251dea2178df85.png
+10:28:59.290 [Test worker] DEBUG net.serenitybdd.core.photography.Darkroom - Send negative for processing for C:\Users\SoporteTI\Desktop\ENTREGAS\HU_1\target\site\serenity\2a5fa9e366f14f40bf47a6cda3e2f185ee54c60d11895dfaa01a531883392a53.png
+10:29:01.993 [Test worker] INFO net.thucydides.core.steps.ConsoleLoggingListener - ?[92m
+        __    _____ _____ ____ _____   ____   _    ____  ____  _____ ____  
+  _     \ \  |_   _| ____/ ___|_   _| |  _ \ / \  / ___|/ ___|| ____|  _ \ 
+ (_)_____| |   | | |  _| \___ \ | |   | |_) / _ \ \___ \\___ \|  _| | | | |
+  _|_____| |   | | | |___ ___) || |   |  __/ ___ \ ___) |___) | |___| |_| |
+ (_)     | |   |_| |_____|____/ |_|   |_| /_/   \_\____/|____/|_____|____/ 
+        /_/                                                                
+
+TEST PASSED: el usuario deberia ver diferentes opciones en el menu
+----------------------------------------------------------------------------?[0m
+]]></system-out>
+  <system-err><![CDATA[dic 31, 2021 10:28:19 AM org.openqa.selenium.remote.DesiredCapabilities chrome
+INFORMACIÓN: Using `new ChromeOptions()` is preferred to `DesiredCapabilities.chrome()`
+Starting ChromeDriver 96.0.4664.45 (76e4c1bb2ab4671b8beba3444e61c0f17584b2fc-refs/branch-heads/4664@{#947}) on port 5664
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+dic 31, 2021 10:28:24 AM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFORMACIÓN: Detected dialect: W3C
+dic 31, 2021 10:28:36 AM org.openqa.selenium.remote.DesiredCapabilities chrome
+INFORMACIÓN: Using `new ChromeOptions()` is preferred to `DesiredCapabilities.chrome()`
+Starting ChromeDriver 96.0.4664.45 (76e4c1bb2ab4671b8beba3444e61c0f17584b2fc-refs/branch-heads/4664@{#947}) on port 7457
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+dic 31, 2021 10:28:40 AM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFORMACIÓN: Detected dialect: W3C
+dic 31, 2021 10:28:48 AM org.openqa.selenium.remote.DesiredCapabilities chrome
+INFORMACIÓN: Using `new ChromeOptions()` is preferred to `DesiredCapabilities.chrome()`
+Starting ChromeDriver 96.0.4664.45 (76e4c1bb2ab4671b8beba3444e61c0f17584b2fc-refs/branch-heads/4664@{#947}) on port 7947
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+dic 31, 2021 10:28:52 AM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFORMACIÓN: Detected dialect: W3C
+]]></system-err>
+</testsuite>

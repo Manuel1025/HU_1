@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.indra.runners.AdvantageonlineshoppingRunners" tests="0" skipped="0" failures="0" errors="0" timestamp="1970-01-01T00:00:00" hostname="22LAP5CD1346NJJ" time="0.0">
+  <properties/>
+  <system-out><![CDATA[10:28:18.139 [Test worker] DEBUG net.thucydides.core.util.PropertiesFileLocalPreferences - LOADING LOCAL PROPERTIES FROM C:\Users\SoporteTI\Desktop\ENTREGAS\HU_1\serenity.properties 
+10:28:18.358 [Test worker] DEBUG net.thucydides.core.util.PropertiesFileLocalPreferences - LOADING LOCAL PROPERTIES FROM C:\Users\SoporteTI\Desktop\ENTREGAS\HU_1\serenity.properties 
+10:28:18.360 [Test worker] DEBUG net.thucydides.core.util.PropertiesFileLocalPreferences - LOADING LOCAL PROPERTIES FROM C:\Users\SoporteTI\Desktop\ENTREGAS\HU_1\serenity.properties 
+10:28:18.378 [Test worker] DEBUG net.thucydides.core.util.PropertiesFileLocalPreferences - webdriver.driver=chrome
+10:28:18.378 [Test worker] DEBUG net.thucydides.core.util.PropertiesFileLocalPreferences - chrome.capabilities.incognito=true
+10:28:18.378 [Test worker] DEBUG net.thucydides.core.util.PropertiesFileLocalPreferences - webdriver.chrome.driver=src/test/resources/drivers/chromedriver.exe
+10:28:18.378 [Test worker] DEBUG net.thucydides.core.util.PropertiesFileLocalPreferences - chrome.capabilities.acceptSslCerts=true
+10:28:18.379 [Test worker] DEBUG net.thucydides.core.util.PropertiesFileLocalPreferences - serenity.console.colors=true
+10:28:18.379 [Test worker] DEBUG net.thucydides.core.util.PropertiesFileLocalPreferences - webdriver.base.url=https://advantageonlineshopping.com/#/
+10:28:18.379 [Test worker] DEBUG net.thucydides.core.util.PropertiesFileLocalPreferences - serenity.project.name=Dojo Serenity / Cucumber
+10:28:18.379 [Test worker] DEBUG net.thucydides.core.util.PropertiesFileLocalPreferences - webdriver.wait.for.timeout=6000
+10:28:18.379 [Test worker] DEBUG net.thucydides.core.util.PropertiesFileLocalPreferences - serenity.use.unique.browser=true
+10:28:18.379 [Test worker] DEBUG net.thucydides.core.util.PropertiesFileLocalPreferences - webdriver.timeouts.implicitlywait=20000
+10:28:18.379 [Test worker] DEBUG net.thucydides.core.util.PropertiesFileLocalPreferences - serenity.browser.maximized=true
+10:28:18.754 [Test worker] DEBUG net.thucydides.core.util.PropertiesFileLocalPreferences - LOADING LOCAL PROPERTIES FROM C:\Users\SoporteTI\Desktop\ENTREGAS\HU_1\serenity.properties 
+10:28:18.937 [Test worker] DEBUG net.thucydides.core.util.PropertiesFileLocalPreferences - LOADING LOCAL PROPERTIES FROM C:\Users\SoporteTI\Desktop\ENTREGAS\HU_1\serenity.properties 
+10:28:18.938 [Test worker] DEBUG net.thucydides.core.util.PropertiesFileLocalPreferences - LOADING LOCAL PROPERTIES FROM C:\Users\SoporteTI\Desktop\ENTREGAS\HU_1\serenity.properties 
+10:28:18.939 [Test worker] DEBUG net.thucydides.core.util.PropertiesFileLocalPreferences - webdriver.driver=chrome
+10:28:18.939 [Test worker] DEBUG net.thucydides.core.util.PropertiesFileLocalPreferences - chrome.capabilities.incognito=true
+10:28:18.939 [Test worker] DEBUG net.thucydides.core.util.PropertiesFileLocalPreferences - webdriver.chrome.driver=src/test/resources/drivers/chromedriver.exe
+10:28:18.940 [Test worker] DEBUG net.thucydides.core.util.PropertiesFileLocalPreferences - chrome.capabilities.acceptSslCerts=true
+10:28:18.940 [Test worker] DEBUG net.thucydides.core.util.PropertiesFileLocalPreferences - serenity.console.colors=true
+10:28:18.940 [Test worker] DEBUG net.thucydides.core.util.PropertiesFileLocalPreferences - webdriver.base.url=https://advantageonlineshopping.com/#/
+10:28:18.940 [Test worker] DEBUG net.thucydides.core.util.PropertiesFileLocalPreferences - serenity.project.name=Dojo Serenity / Cucumber
+10:28:18.940 [Test worker] DEBUG net.thucydides.core.util.PropertiesFileLocalPreferences - webdriver.wait.for.timeout=6000
+10:28:18.940 [Test worker] DEBUG net.thucydides.core.util.PropertiesFileLocalPreferences - serenity.use.unique.browser=true
+10:28:18.940 [Test worker] DEBUG net.thucydides.core.util.PropertiesFileLocalPreferences - webdriver.timeouts.implicitlywait=20000
+10:28:18.941 [Test worker] DEBUG net.thucydides.core.util.PropertiesFileLocalPreferences - serenity.browser.maximized=true
+10:28:18.950 [Test worker] INFO net.thucydides.core.steps.ConsoleLoggingListener - ?[96m
+
+-------------------------------------------------------------------------------------
+     _______. _______ .______       _______ .__   __.  __  .___________.____    ____ 
+    /       ||   ____||   _  \     |   ____||  \ |  | |  | |           |\   \  /   / 
+   |   (----`|  |__   |  |_)  |    |  |__   |   \|  | |  | `---|  |----` \   \/   /  
+    \   \    |   __|  |      /     |   __|  |  . `  | |  |     |  |       \_    _/   
+.----)   |   |  |____ |  |\  \----.|  |____ |  |\   | |  |     |  |         |  |     
+|_______/    |_______|| _| `._____||_______||__| \__| |__|     |__|         |__|    
+                                                                                     
+ News and tutorials at http://www.serenity-bdd.info                                  
+ Documentation at https://wakaleo.gitbooks.io/the-serenity-book/content/             
+ Join the Serenity Community on Rocket Chat at https://serenity-bdd.rocket.chat      
+ Serenity BDD Support and Training at http://serenity-bdd.info/#/trainingandsupport  
+ Learn Serenity BDD online at http://serenity-dojo.com                               
+-------------------------------------------------------------------------------------
+?[0m
+10:28:18.958 [Test worker] DEBUG net.thucydides.core.steps.StepEventBus - Test suite started for story net.thucydides.core.model.Story@74143b0d
+10:28:18.960 [Test worker] INFO net.thucydides.core.steps.ConsoleLoggingListener - Test Suite Started: Ver diferentes categorias de productos
+10:28:19.033 [Test worker] INFO net.thucydides.core.steps.ConsoleLoggingListener - 
+ _____ _____ ____ _____   ____ _____  _    ____ _____ _____ ____  
+|_   _| ____/ ___|_   _| / ___|_   _|/ \  |  _ \_   _| ____|  _ \ 
+  | | |  _| \___ \ | |   \___ \ | | / _ \ | |_) || | |  _| | | | |
+  | | | |___ ___) || |    ___) || |/ ___ \|  _ < | | | |___| |_| |
+  |_| |_____|____/ |_|   |____/ |_/_/   \_\_| \_\|_| |_____|____/ 
+                                                                  
+
+TEST STARTED: el usuario deberia  poder ver las diferentes categorias de productos
+-------------------------------------------------------------------(ver-diferentes-categorias-de-productos;el-usuario-deberia--poder-ver-las-diferentes-categorias-de-productos)
+10:28:36.571 [Test worker] INFO net.thucydides.core.steps.ConsoleLoggingListener - 
+ _____ _____ ____ _____   ____ _____  _    ____ _____ _____ ____  
+|_   _| ____/ ___|_   _| / ___|_   _|/ \  |  _ \_   _| ____|  _ \ 
+  | | |  _| \___ \ | |   \___ \ | | / _ \ | |_) || | |  _| | | | |
+  | | | |___ ___) || |    ___) || |/ ___ \|  _ < | | | |___| |_| |
+  |_| |_____|____/ |_|   |____/ |_/_/   \_\_| \_\|_| |_____|____/ 
+                                                                  
+
+TEST STARTED: el usuario deberia ver diferentes espacios publicitarios
+-------------------------------------------------------------------(ver-diferentes-categorias-de-productos;el-usuario-deberia-ver-diferentes-espacios-publicitarios)
+10:28:48.619 [Test worker] INFO net.thucydides.core.steps.ConsoleLoggingListener - 
+ _____ _____ ____ _____   ____ _____  _    ____ _____ _____ ____  
+|_   _| ____/ ___|_   _| / ___|_   _|/ \  |  _ \_   _| ____|  _ \ 
+  | | |  _| \___ \ | |   \___ \ | | / _ \ | |_) || | |  _| | | | |
+  | | | |___ ___) || |    ___) || |/ ___ \|  _ < | | | |___| |_| |
+  |_| |_____|____/ |_|   |____/ |_/_/   \_\_| \_\|_| |_____|____/ 
+                                                                  
+
+TEST STARTED: el usuario deberia ver diferentes opciones en el menu
+-------------------------------------------------------------------(ver-diferentes-categorias-de-productos;el-usuario-deberia-ver-diferentes-opciones-en-el-menu)
+10:29:01.998 [Test worker] DEBUG net.thucydides.core.reports.ReportService - Reporting formats: [JSON, HTML]
+10:29:02.073 [Test worker] DEBUG net.thucydides.core.reports.ReportService - Reporting formats: [JSON, HTML]
+10:29:02.083 [Test worker] DEBUG net.thucydides.core.reports.ReportService - Generating reports for 3 test outcomes using: net.thucydides.core.reports.json.JSONTestOutcomeReporter@6a0a99d1
+10:29:02.084 [pool-1-thread-1] DEBUG net.thucydides.core.reports.ReportService - Processing test outcome Ver diferentes categorias de productos:el usuario deberia  poder ver las diferentes categorias de productos
+10:29:02.084 [pool-1-thread-2] DEBUG net.thucydides.core.reports.ReportService - Processing test outcome Ver diferentes categorias de productos:el usuario deberia ver diferentes espacios publicitarios
+10:29:02.084 [pool-1-thread-3] DEBUG net.thucydides.core.reports.ReportService - Processing test outcome Ver diferentes categorias de productos:el usuario deberia ver diferentes opciones en el menu
+10:29:02.084 [pool-1-thread-1] DEBUG net.thucydides.core.reports.ReportService - net.thucydides.core.reports.json.JSONTestOutcomeReporter@6a0a99d1: Generating report for test outcome: Ver diferentes categorias de productos:el usuario deberia  poder ver las diferentes categorias de productos
+10:29:02.085 [pool-1-thread-2] DEBUG net.thucydides.core.reports.ReportService - net.thucydides.core.reports.json.JSONTestOutcomeReporter@6a0a99d1: Generating report for test outcome: Ver diferentes categorias de productos:el usuario deberia ver diferentes espacios publicitarios
+10:29:02.085 [pool-1-thread-3] DEBUG net.thucydides.core.reports.ReportService - net.thucydides.core.reports.json.JSONTestOutcomeReporter@6a0a99d1: Generating report for test outcome: Ver diferentes categorias de productos:el usuario deberia ver diferentes opciones en el menu
+10:29:02.095 [pool-1-thread-1] DEBUG net.thucydides.core.reports.json.JSONTestOutcomeReporter - Generating JSON report for el usuario deberia  poder ver las diferentes categorias de productos to file C:\Users\SoporteTI\Desktop\ENTREGAS\HU_1\target\site\serenity\e9dfceac4c384e389afbbfcac777b17fef0003517cc6311d61ce8d37840a5727.json (using temp file C:\Users\SoporteTI\Desktop\ENTREGAS\HU_1\target\site\serenity\e9dfceac4c384e389afbbfcac777b17fef0003517cc6311d61ce8d37840a5727.json12f31e45-3a25-466d-9130-39b0e54f4e12)
+10:29:02.095 [pool-1-thread-2] DEBUG net.thucydides.core.reports.json.JSONTestOutcomeReporter - Generating JSON report for el usuario deberia ver diferentes espacios publicitarios to file C:\Users\SoporteTI\Desktop\ENTREGAS\HU_1\target\site\serenity\87652001367bfeb3acb7ca89bc6d1ef16d7008071fd10904b5005a545bc31bf8.json (using temp file C:\Users\SoporteTI\Desktop\ENTREGAS\HU_1\target\site\serenity\87652001367bfeb3acb7ca89bc6d1ef16d7008071fd10904b5005a545bc31bf8.json29286ba2-7aad-49dc-9445-05627be72966)
+10:29:02.095 [pool-1-thread-3] DEBUG net.thucydides.core.reports.json.JSONTestOutcomeReporter - Generating JSON report for el usuario deberia ver diferentes opciones en el menu to file C:\Users\SoporteTI\Desktop\ENTREGAS\HU_1\target\site\serenity\6ef0e808e2d64c7c90a1f2f23f3deb2d655be891bdae1d12b92f8cb59caf9838.json (using temp file C:\Users\SoporteTI\Desktop\ENTREGAS\HU_1\target\site\serenity\6ef0e808e2d64c7c90a1f2f23f3deb2d655be891bdae1d12b92f8cb59caf9838.json48b4813d-eb8a-4fa8-b194-c17830619f09)
+10:29:02.287 [pool-1-thread-2] DEBUG net.thucydides.core.reports.ReportService - Processing test outcome Ver diferentes categorias de productos:el usuario deberia ver diferentes espacios publicitarios done
+10:29:02.291 [pool-1-thread-3] DEBUG net.thucydides.core.reports.ReportService - Processing test outcome Ver diferentes categorias de productos:el usuario deberia ver diferentes opciones en el menu done
+10:29:02.294 [pool-1-thread-1] DEBUG net.thucydides.core.reports.ReportService - Processing test outcome Ver diferentes categorias de productos:el usuario deberia  poder ver las diferentes categorias de productos done
+10:29:02.296 [Test worker] DEBUG net.thucydides.core.reports.ReportService - Shutting down executor service
+10:29:02.296 [Test worker] DEBUG net.thucydides.core.reports.ReportService - Reports generated in: 213 ms
+10:29:02.296 [Test worker] DEBUG net.thucydides.core.reports.ReportService - Generating reports for 3 test outcomes using: net.thucydides.core.reports.html.HtmlAcceptanceTestReporter@545a1208
+10:29:02.297 [pool-2-thread-2] DEBUG net.thucydides.core.reports.ReportService - Processing test outcome Ver diferentes categorias de productos:el usuario deberia ver diferentes espacios publicitarios
+10:29:02.297 [pool-2-thread-3] DEBUG net.thucydides.core.reports.ReportService - Processing test outcome Ver diferentes categorias de productos:el usuario deberia ver diferentes opciones en el menu
+10:29:02.297 [pool-2-thread-1] DEBUG net.thucydides.core.reports.ReportService - Processing test outcome Ver diferentes categorias de productos:el usuario deberia  poder ver las diferentes categorias de productos
+10:29:02.297 [pool-2-thread-2] DEBUG net.thucydides.core.reports.ReportService - net.thucydides.core.reports.html.HtmlAcceptanceTestReporter@545a1208: Generating report for test outcome: Ver diferentes categorias de productos:el usuario deberia ver diferentes espacios publicitarios
+10:29:02.297 [pool-2-thread-3] DEBUG net.thucydides.core.reports.ReportService - net.thucydides.core.reports.html.HtmlAcceptanceTestReporter@545a1208: Generating report for test outcome: Ver diferentes categorias de productos:el usuario deberia ver diferentes opciones en el menu
+10:29:02.297 [pool-2-thread-1] DEBUG net.thucydides.core.reports.ReportService - net.thucydides.core.reports.html.HtmlAcceptanceTestReporter@545a1208: Generating report for test outcome: Ver diferentes categorias de productos:el usuario deberia  poder ver las diferentes categorias de productos
+10:29:02.298 [pool-2-thread-1] DEBUG net.thucydides.core.reports.html.HtmlAcceptanceTestReporter - GENERATE TEST OUTCOME REPORT FOR el usuario deberia  poder ver las diferentes categorias de productos in e9dfceac4c384e389afbbfcac777b17fef0003517cc6311d61ce8d37840a5727
+10:29:02.298 [pool-2-thread-2] DEBUG net.thucydides.core.reports.html.HtmlAcceptanceTestReporter - GENERATE TEST OUTCOME REPORT FOR el usuario deberia ver diferentes espacios publicitarios in 87652001367bfeb3acb7ca89bc6d1ef16d7008071fd10904b5005a545bc31bf8
+10:29:02.298 [pool-2-thread-3] DEBUG net.thucydides.core.reports.html.HtmlAcceptanceTestReporter - GENERATE TEST OUTCOME REPORT FOR el usuario deberia ver diferentes opciones en el menu in 6ef0e808e2d64c7c90a1f2f23f3deb2d655be891bdae1d12b92f8cb59caf9838
+10:29:02.319 [pool-2-thread-2] DEBUG net.thucydides.core.requirements.RequirementsTagProvider -  found:[]
+10:29:02.320 [pool-2-thread-3] DEBUG net.thucydides.core.requirements.RequirementsTagProvider -  found:[]
+10:29:02.320 [pool-2-thread-1] DEBUG net.thucydides.core.requirements.RequirementsTagProvider -  found:[]
+10:29:02.326 [pool-2-thread-1] DEBUG net.thucydides.core.requirements.RequirementsTagProvider -  found:[]
+10:29:02.326 [pool-2-thread-2] DEBUG net.thucydides.core.requirements.RequirementsTagProvider -  found:[]
+10:29:02.326 [pool-2-thread-3] DEBUG net.thucydides.core.requirements.RequirementsTagProvider -  found:[]
+10:29:02.406 [pool-2-thread-3] DEBUG net.thucydides.core.requirements.RequirementsTagProvider -  found:[]
+10:29:02.406 [pool-2-thread-2] DEBUG net.thucydides.core.requirements.RequirementsTagProvider -  found:[]
+10:29:02.406 [pool-2-thread-1] DEBUG net.thucydides.core.requirements.RequirementsTagProvider -  found:[]
+10:29:02.407 [pool-2-thread-3] DEBUG net.thucydides.core.requirements.RequirementsTagProvider -  found:[]
+10:29:02.407 [pool-2-thread-2] DEBUG net.thucydides.core.requirements.RequirementsTagProvider -  found:[]
+10:29:02.407 [pool-2-thread-1] DEBUG net.thucydides.core.requirements.RequirementsTagProvider -  found:[]
+10:29:02.523 [pool-2-thread-2] DEBUG net.thucydides.core.reports.html.HtmlAcceptanceTestReporter - Generating report in 87652001367bfeb3acb7ca89bc6d1ef16d7008071fd10904b5005a545bc31bf8_screenshots.html
+10:29:02.523 [pool-2-thread-1] DEBUG net.thucydides.core.reports.html.HtmlAcceptanceTestReporter - Generating report in e9dfceac4c384e389afbbfcac777b17fef0003517cc6311d61ce8d37840a5727_screenshots.html
+10:29:02.523 [pool-2-thread-3] DEBUG net.thucydides.core.reports.html.HtmlAcceptanceTestReporter - Generating report in 6ef0e808e2d64c7c90a1f2f23f3deb2d655be891bdae1d12b92f8cb59caf9838_screenshots.html
+10:29:02.934 [pool-2-thread-2] DEBUG net.thucydides.core.reports.html.HtmlAcceptanceTestReporter - Generated report 87652001367bfeb3acb7ca89bc6d1ef16d7008071fd10904b5005a545bc31bf8_screenshots.html in 411 ms
+10:29:02.935 [pool-2-thread-3] DEBUG net.thucydides.core.reports.html.HtmlAcceptanceTestReporter - Generated report 6ef0e808e2d64c7c90a1f2f23f3deb2d655be891bdae1d12b92f8cb59caf9838_screenshots.html in 412 ms
+10:29:02.935 [pool-2-thread-1] DEBUG net.thucydides.core.reports.html.HtmlAcceptanceTestReporter - Generated report e9dfceac4c384e389afbbfcac777b17fef0003517cc6311d61ce8d37840a5727_screenshots.html in 412 ms
+10:29:02.935 [pool-2-thread-2] DEBUG net.thucydides.core.reports.html.HtmlAcceptanceTestReporter - GENERATING HTML REPORT FOR Ver diferentes categorias de productos:el usuario deberia ver diferentes espacios publicitarios in 87652001367bfeb3acb7ca89bc6d1ef16d7008071fd10904b5005a545bc31bf8.html in directory C:\Users\SoporteTI\Desktop\ENTREGAS\HU_1\target\site\serenity  
+10:29:02.936 [pool-2-thread-1] DEBUG net.thucydides.core.reports.html.HtmlAcceptanceTestReporter - GENERATING HTML REPORT FOR Ver diferentes categorias de productos:el usuario deberia  poder ver las diferentes categorias de productos in e9dfceac4c384e389afbbfcac777b17fef0003517cc6311d61ce8d37840a5727.html in directory C:\Users\SoporteTI\Desktop\ENTREGAS\HU_1\target\site\serenity  
+10:29:02.936 [pool-2-thread-3] DEBUG net.thucydides.core.reports.html.HtmlAcceptanceTestReporter - GENERATING HTML REPORT FOR Ver diferentes categorias de productos:el usuario deberia ver diferentes opciones en el menu in 6ef0e808e2d64c7c90a1f2f23f3deb2d655be891bdae1d12b92f8cb59caf9838.html in directory C:\Users\SoporteTI\Desktop\ENTREGAS\HU_1\target\site\serenity  
+10:29:02.940 [pool-2-thread-3] DEBUG net.thucydides.core.reports.html.HtmlAcceptanceTestReporter - Generating report in 6ef0e808e2d64c7c90a1f2f23f3deb2d655be891bdae1d12b92f8cb59caf9838.html
+10:29:02.940 [pool-2-thread-2] DEBUG net.thucydides.core.reports.html.HtmlAcceptanceTestReporter - Generating report in 87652001367bfeb3acb7ca89bc6d1ef16d7008071fd10904b5005a545bc31bf8.html
+10:29:02.942 [pool-2-thread-1] DEBUG net.thucydides.core.reports.html.HtmlAcceptanceTestReporter - Generating report in e9dfceac4c384e389afbbfcac777b17fef0003517cc6311d61ce8d37840a5727.html
+10:29:02.989 [pool-2-thread-1] DEBUG net.thucydides.core.requirements.RequirementsTagProvider -  found:[]
+10:29:02.991 [pool-2-thread-3] DEBUG net.thucydides.core.requirements.RequirementsTagProvider -  found:[]
+10:29:02.991 [pool-2-thread-2] DEBUG net.thucydides.core.requirements.RequirementsTagProvider -  found:[]
+10:29:03.079 [pool-2-thread-2] DEBUG net.thucydides.core.reports.html.HtmlAcceptanceTestReporter - Generated report 87652001367bfeb3acb7ca89bc6d1ef16d7008071fd10904b5005a545bc31bf8.html in 139 ms
+10:29:03.079 [pool-2-thread-2] DEBUG net.thucydides.core.reports.ReportService - Processing test outcome Ver diferentes categorias de productos:el usuario deberia ver diferentes espacios publicitarios done
+10:29:03.094 [pool-2-thread-3] DEBUG net.thucydides.core.reports.html.HtmlAcceptanceTestReporter - Generated report 6ef0e808e2d64c7c90a1f2f23f3deb2d655be891bdae1d12b92f8cb59caf9838.html in 154 ms
+10:29:03.094 [pool-2-thread-3] DEBUG net.thucydides.core.reports.ReportService - Processing test outcome Ver diferentes categorias de productos:el usuario deberia ver diferentes opciones en el menu done
+10:29:03.099 [pool-2-thread-1] DEBUG net.thucydides.core.reports.html.HtmlAcceptanceTestReporter - Generated report e9dfceac4c384e389afbbfcac777b17fef0003517cc6311d61ce8d37840a5727.html in 157 ms
+10:29:03.099 [pool-2-thread-1] DEBUG net.thucydides.core.reports.ReportService - Processing test outcome Ver diferentes categorias de productos:el usuario deberia  poder ver las diferentes categorias de productos done
+10:29:03.099 [Test worker] DEBUG net.thucydides.core.reports.ReportService - Shutting down executor service
+10:29:03.099 [Test worker] DEBUG net.thucydides.core.reports.ReportService - Reports generated in: 803 ms
+10:29:03.317 [Test worker] DEBUG net.serenitybdd.core.photography.Darkroom - Closing darkroom
+10:29:03.318 [Darkroom Processing Line] DEBUG net.serenitybdd.core.photography.DarkroomProcessingLine - Darkroom processing line shutting down
+
+?[31mFailed scenarios:?[0m
+?[31msrc/test/resources/advantageonlineshopping/advantageonlineshopping.feature:8 ?[0m# el usuario deberia  poder ver las diferentes categorias de productos
+
+3 Scenarios (?[31m1 failed?[0m, ?[32m2 passed?[0m)
+9 Steps (?[31m1 failed?[0m, ?[32m8 passed?[0m)
+0m43,395s
+
+java.lang.AssertionError: deben haber 5 coincidencias
+Expected: is <4>
+     but: was <5>
+	at org.hamcrest.MatcherAssert.assertThat(MatcherAssert.java:20)
+	at com.indra.actions.AdvantageonlineshoppingActions.mostrarTodasLasCategorias(AdvantageonlineshoppingActions.java:40)
+	at com.indra.steps_definitions.AdvantageonlineshoppingSteps.deberiaPoderVerLasDiferentesCategoria(AdvantageonlineshoppingSteps.java:32)
+	at ?.deberia poder ver las diferentes categoria(src/test/resources/advantageonlineshopping/advantageonlineshopping.feature:11)
+
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
